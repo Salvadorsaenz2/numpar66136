@@ -16,6 +16,13 @@ public class Numpar66136 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int numero = 2;
+        while(numero<94){
+             if (numero%2==0){
+                System.out.println("numero = " + numero);
     }
-    
+                 numero++;
+                 
+        }
+    }
 }
